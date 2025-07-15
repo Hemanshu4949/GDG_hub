@@ -135,18 +135,12 @@ We welcome contributions to GDG Hub\! If you have suggestions, bug reports, or w
 
 -----
 
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You can find the full license text in the `LICENSE` file in the root of this repository.
-
------
-
 ## 📞 Contact
 
 Have questions or want to connect?
 
-  * **Your Name/Handle:** [Your GitHub Profile Link]
-  * **Email:** [Your Email Address]
+  * **Your Name/Handle:** [https://github.com/Hemanshu4949]
+  * **Email:** [hemanshusojitra30@gmail.com]
 
 -----
 
@@ -166,4 +160,3 @@ Have questions or want to connect?
 3.  **Update Contact & License:** Fill in your actual GitHub profile link, email address, and ensure you have a `LICENSE` file if you're using the MIT License (or change the license link if you're using a different one).
 4.  **Optional Badges:** Add any other relevant badges (e.g., build status, specific dependency versions) at the top.
 
-This README provides a clear, structured, and visually enhanced overview of your GDG Hub project, making it much more engaging for anyone visiting your repository\!
