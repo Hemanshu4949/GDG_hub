@@ -1,10 +1,4 @@
-Sure, I can help you create an interactive README for your GitHub repository\! To make it truly interactive with images and in a proper format, I'll provide you with the Markdown code that you can directly paste into your `README.md` file.
 
-Since I cannot directly generate and embed images into this response, I'll use placeholders for where you should put your image URLs. I'll also assume you'll host these images within your GitHub repository (e.g., in an `assets` or `images` folder) or on an image hosting service.
-
-Here's the interactive README content:
-
------
 
 # GDG Hub - Android News & Event App 📰✨
 
@@ -148,15 +142,4 @@ Have questions or want to connect?
 
   * Special thanks to Google for the amazing **Firebase** platform and **Gemini AI** capabilities.
   * The **Kotlin**, **Jetpack Compose**, and **Android Development** communities for their continuous innovation and support.
-
------
-
-### How to use this Markdown:
-
-1.  **Save as `README.md`:** Copy all the content above and save it as `README.md` in the root directory of your GitHub repository.
-2.  **Replace Image Placeholders:**
-      * Go through the markdown and replace `your_image_url_news_feed.png`, `your_image_url_ai_filtering.png`, `your_image_url_article_detail.png`, and `your_image_url_google_services_json_location.png` with the actual URLs of your screenshots.
-      * **Recommendation:** Create an `images` or `assets` folder in your repository and store your screenshots there. Then, the URLs would look something like `images/news_feed.png` or `assets/ai_filtering.png`.
-3.  **Update Contact & License:** Fill in your actual GitHub profile link, email address, and ensure you have a `LICENSE` file if you're using the MIT License (or change the license link if you're using a different one).
-4.  **Optional Badges:** Add any other relevant badges (e.g., build status, specific dependency versions) at the top.
 
